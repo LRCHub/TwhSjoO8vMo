@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Moonlit Bloom",
+  "base_artist": "白河しらせ",
+  "createdAt": "2025-12-10T04:15:40.824563Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moonlit Bloom",
+      "artist": "白河しらせ",
+      "has_synced": false,
+      "path": "select/pl_01_Moonlit_Bloom_白河しらせ.txt"
+    }
+  ]
+}
